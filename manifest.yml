@@ -1,0 +1,7 @@
+
+# TiltOverview Manifest
+applications:
+- name: TiltOverview
+memory: 128MB
+host: tilt-overview
+buildpack:  php_buildpack
